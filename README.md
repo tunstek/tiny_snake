@@ -1,5 +1,5 @@
 
-A simple cross platform command line snake game written in about 40 lines
+A Unix command line snake game written in about 40 lines
 
 ### Setup
 
